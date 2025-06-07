@@ -1,0 +1,3 @@
+[submodule "qshare-cli"]
+	path = qshare-cli
+	url = https://github.com/Shanki200801/qshare-cli.git
